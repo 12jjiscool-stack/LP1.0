@@ -1,2 +1,4 @@
 # LP1.0
-An open source raspberry pi 3 project for a smart phone!
+
+##What is a Rapberry pi? 
+#A raspberry pi is an os system and multi core chip that you can use for projects!
